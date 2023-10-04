@@ -13,3 +13,7 @@
   <a href="https://instagram.com/ryanladeia._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
  <a href = "mailto:ryanladeia24@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=000000" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/ryan-ladeia/ryan-ladeia/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ryan-ladeia&repo=ryan-ladeia&theme=react)](https://github.com/ryan-ladeia/ryan-ladeia)
